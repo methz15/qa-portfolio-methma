@@ -1,1 +1,61 @@
+Test Summary Report
+============================
+Project Name
+SauceDemo E-Commerce Application Testing
+
+📌 Objective
+To verify the core functionalities of the SauceDemo application including login, product selection, cart management, and checkout process through manual testing.
+
+Scope of Testing
+  Login Functionality
+  Product Listing Page
+  Shopping Cart
+  Checkout Process
+
+Testing Types Performed
+  Functional Testing
+  UI Testing
+  Negative Testing
+
+
+Test Execution Summary
+
+      | Metric           | Count |
+      | ---------------- | ----- |
+      | Total Test Cases | 12    |
+      | Passed           | 10    |
+      | Failed           | 2     |
+      | Blocked          | 0     |
+
+
+Defects Summary
+
+      | Severity | Count |
+      | -------- | ----- |
+      | High     | 1     |
+      | Medium   | 1     |
+      | Low      | 0     |
+
+
+Key Findings
+      ! Login functionality works for valid users but fails to show proper error messages for invalid inputs.
+      ! Cart functionality is mostly stable but has minor UI update delay issues.
+      ! Checkout process is working as expected with valid data.
+
+Overall Result
+The application is stable with minor defects that should be fixed to improve user experience.
+
+Tester Details
+        Name: Methma Hewavitharana
+        Date: 2026-05-18
+        Testing Type: Manual Testing
+
+Tools Used to Create This Reports
+        Microsoft Excel (Test Cases & Bug Reports)
+
+QA Tools
+    Manual Testing
+    Browser (Chrome)
+    SauceDemo Demo Website
+
 
