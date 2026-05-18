@@ -1,1 +1,19 @@
+Test plan
+----------------------
+project Name - SauceDemo E-commerce Testing
 
+Objective - To verify login, product selection, cart, and checkout functionality.
+
+Scope - Login page
+        Product page
+        Cart
+        Checkout
+
+Testing Type--
+          Functional Testing
+          UI Testing
+
+Tools--
+       Manual Testing
+       Excel
+      Chrome Browser
