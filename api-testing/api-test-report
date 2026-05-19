@@ -1,1 +1,24 @@
+# API Test Report - Reqres.in
 
+## Tools Used
+- Postman
+
+## Test Coverage
+- GET Users
+- GET Single User
+- POST Create User
+- PUT Update User
+- DELETE User
+
+## Summary
+
+| Method | Endpoint | Status |
+|--------|----------|--------|
+| GET | /users?page=2 | Pass |
+| GET | /users/2 | Pass |
+| POST | /users | Pass |
+| PUT | /users/2 | Pass |
+| DELETE | /users/2 | Pass |
+
+## Conclusion
+All API endpoints responded correctly with expected status codes and data validation passed....
